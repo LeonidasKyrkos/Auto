@@ -1,0 +1,6 @@
+C:\DEV\AUTO\bin\Debug\AUTO.exe.config
+C:\DEV\AUTO\bin\Debug\AUTO.exe
+C:\DEV\AUTO\bin\Debug\AUTO.pdb
+C:\DEV\AUTO\obj\Debug\AUTO.csprojResolveAssemblyReference.cache
+C:\DEV\AUTO\obj\Debug\AUTO.exe
+C:\DEV\AUTO\obj\Debug\AUTO.pdb
